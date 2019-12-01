@@ -5,7 +5,7 @@
 
 |  Problem     |  Language     |  Source    |
 | :------------------------------------------------: | :---: |:---:  |
-| Basic Console Text Editor With Undo Functionality Using Stacks  | [C](https://github.com/fatihcinar1/strings-exercises/blob/master/Solutions/Copying%20One%20String%20To%20Another%20String/copying-one-string-to-another-string.c)     | [`CODEFORWIN`](https://codeforwin.org/2015/11/c-program-to-copy-one-string-to-another.html) |
+| Basic Console Text Editor With Undo Functionality Using Stacks  | [C](https://github.com/fatihcinar1/strings-exercises/blob/master/Solutions/Copying%20One%20String%20To%20Another%20String/copying-one-string-to-another-string.c)     |  |
 
 
 
