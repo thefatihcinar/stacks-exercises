@@ -5,7 +5,7 @@
 
 |  Problem     |  Language     | Category |  Source    |
 | :------------------------------------------------: | :---: | :---: | :---:  |
-| Basic Console Text Editor With Undo Functionality Using Stacks  | [C++](https://github.com/fatihcinar1/stacks-exercises/blob/master/Solutions/Basic%20Console%20Text%20Editor%20With%20Undo%20Functionality%20Using%20Stacks/basic-text-editor.cpp)     | `Stacks` |  |
+| [Basic Console Text Editor With Undo Functionality Using Stacks](https://github.com/fatihcinar1/stacks-exercises/blob/master/Solutions/Basic%20Console%20Text%20Editor%20With%20Undo%20Functionality%20Using%20Stacks/text-editor.md)  | [C++](https://github.com/fatihcinar1/stacks-exercises/blob/master/Solutions/Basic%20Console%20Text%20Editor%20With%20Undo%20Functionality%20Using%20Stacks/basic-text-editor.cpp)     | `Stacks` |  |
 
 
 
