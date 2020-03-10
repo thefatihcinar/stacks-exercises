@@ -1,4 +1,14 @@
 
+/*
+    GEEKSFORGEEKS
+        DATA STRUCTURES
+            STACKS
+    
+    REVERSE A STRING USING STACK
+    coded by Fatih Cinar
+    on March 11th, 2020
+*/
+
 class Stack
 {
     private int Capacity;
